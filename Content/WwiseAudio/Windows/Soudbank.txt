@@ -1,0 +1,22 @@
+Event	ID	Name			Wwise Object Path	Notes
+	55565095	Music_event			\Default Work Unit\Music_event	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1211711963	moods			\Default Work Unit\moods	
+
+State	ID	Name	State Group			Notes
+	319636553	MI_state	moods			
+	748895195	None	moods			
+	806468182	HI_state	moods			
+	1299880184	outro_state	moods			
+	1732293498	LI_state	moods			
+	4177468155	intro_state	moods			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	233403212	34BT - MA intro	C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\.cache\Windows\SFX\34BT - MA intro_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\intro\34BT - MA intro 1\34BT - MA intro		529720
+	503015341	34BT - MA transition2 - generic	C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\.cache\Windows\SFX\34BT - MA transition2 - generic_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\Transitions\generic_transition\34BT - MA transition2 - generic		529724
+	641394782	34BT - MA HI	C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\.cache\Windows\SFX\34BT - MA HI_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\HI\34BT - MA HI 1\34BT - MA HI		3177996
+	726236822	34BT - MA MI	C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\.cache\Windows\SFX\34BT - MA MI_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\MI\34BT - MA MI 1\34BT - MA MI		10584068
+	956370877	34BT - MA LI	C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\.cache\Windows\SFX\34BT - MA LI_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\LI\34BT - MA LI 1\34BT - MA LI		8474548
+	1060703957	34BT - MA outro	C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\.cache\Windows\SFX\34BT - MA outro_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\outro\34BT - MA outro 1\34BT - MA outro		1057044
+

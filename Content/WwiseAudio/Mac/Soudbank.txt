@@ -1,0 +1,21 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Music	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3128647864	mood			\Default Work Unit\mood	
+
+State	ID	Name	State Group			Notes
+	319636553	MI_state	mood			
+	748895195	None	mood			
+	806468182	HI_state	mood			
+	1299880184	outro_state	mood			
+	1732293498	LI_state	mood			
+	4177468155	intro_state	mood			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	15056753	34BT - MA HI 1	C:\Users\steve\Documents\WwiseProjects\34BT - MA prova\.cache\Mac\SFX\34BT - MA HI 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\HI\34BT - MA HI 1\34BT - MA HI 1		4233920
+	545511659	34BT - MA intro 1	C:\Users\steve\Documents\WwiseProjects\34BT - MA prova\.cache\Mac\SFX\34BT - MA intro 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\intro\34BT - MA intro 1\34BT - MA intro 1		527792
+	603498064	34BT - MA MI 1	C:\Users\steve\Documents\WwiseProjects\34BT - MA prova\.cache\Mac\SFX\34BT - MA MI 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\MI\34BT - MA MI 1\34BT - MA MI 1		10584068
+	631809441	34BT - MA outro 1	C:\Users\steve\Documents\WwiseProjects\34BT - MA prova\.cache\Mac\SFX\34BT - MA outro 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\outro\34BT - MA outro 1\34BT - MA outro 1		1057440
+	859644781	34BT - MA LI 1	C:\Users\steve\Documents\WwiseProjects\34BT - MA prova\.cache\Mac\SFX\34BT - MA LI 1_D79FB2B7.wem		\Interactive Music Hierarchy\Music\moods\LI\34BT - MA LI 1\34BT - MA LI 1		8468100
+

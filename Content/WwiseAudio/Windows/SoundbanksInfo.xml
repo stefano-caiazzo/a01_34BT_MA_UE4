@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\user\Desktop\unreal wwise 2 260421\a01_34BT_MA_UE4\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\user\Desktop\unreal wwise 2 260421\a02_34BT_ MA_wwise\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3456138657">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2802976482" Language="SFX" Hash="495633151">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soudbank</ObjectPath>
+			<ShortName>Soudbank</ShortName>
+			<Path>Soudbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="55565095" Name="Music_event" ObjectPath="\Events\Default Work Unit\Music_event">
+					<IncludedMemoryFiles>
+						<File Id="233403212" Language="SFX">
+							<ShortName>34BT - MA intro.wav</ShortName>
+							<Path>SFX\34BT - MA intro_D79FB2B7.wem</Path>
+						</File>
+						<File Id="503015341" Language="SFX">
+							<ShortName>34BT - MA transition2 - generic.wav</ShortName>
+							<Path>SFX\34BT - MA transition2 - generic_D79FB2B7.wem</Path>
+						</File>
+						<File Id="641394782" Language="SFX">
+							<ShortName>34BT - MA HI.wav</ShortName>
+							<Path>SFX\34BT - MA HI_D79FB2B7.wem</Path>
+						</File>
+						<File Id="726236822" Language="SFX">
+							<ShortName>34BT - MA MI.wav</ShortName>
+							<Path>SFX\34BT - MA MI_D79FB2B7.wem</Path>
+						</File>
+						<File Id="956370877" Language="SFX">
+							<ShortName>34BT - MA LI.wav</ShortName>
+							<Path>SFX\34BT - MA LI_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1060703957" Language="SFX">
+							<ShortName>34BT - MA outro.wav</ShortName>
+							<Path>SFX\34BT - MA outro_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{CD7601D8-5E77-436F-B1AD-2DF15010AE08}">
+							<Media>
+								<File Id="641394782"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{95EEB39C-C488-4435-8D42-E32FF839CD94}">
+							<Media>
+								<File Id="233403212"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{77051BAA-04E6-4303-B93B-5CCF14EBEE53}">
+							<Media>
+								<File Id="956370877"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{7B342206-5BC4-478B-A196-B4ACC148705B}">
+							<Media>
+								<File Id="726236822"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{0FF7861F-DEA8-4E68-B998-346B94882115}">
+							<Media>
+								<File Id="1060703957"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="1211711963" Name="moods" ObjectPath="\States\Default Work Unit\moods">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\moods\None"/>
+						<State Id="4177468155" Name="intro_state" ObjectPath="\States\Default Work Unit\moods\intro_state"/>
+						<State Id="1732293498" Name="LI_state" ObjectPath="\States\Default Work Unit\moods\LI_state"/>
+						<State Id="319636553" Name="MI_state" ObjectPath="\States\Default Work Unit\moods\MI_state"/>
+						<State Id="806468182" Name="HI_state" ObjectPath="\States\Default Work Unit\moods\HI_state"/>
+						<State Id="1299880184" Name="outro_state" ObjectPath="\States\Default Work Unit\moods\outro_state"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+		<SoundBank Id="2918934508" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\mood_music</ObjectPath>
+			<ShortName>mood_music</ShortName>
+			<Path>mood_music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="55565095" Name="Music_event" ObjectPath="\Events\Default Work Unit\Music_event">
+					<IncludedMemoryFiles>
+						<File Id="233403212" Language="SFX">
+							<ShortName>34BT - MA intro.wav</ShortName>
+							<Path>SFX\34BT - MA intro_D79FB2B7.wem</Path>
+						</File>
+						<File Id="503015341" Language="SFX">
+							<ShortName>34BT - MA transition2 - generic.wav</ShortName>
+							<Path>SFX\34BT - MA transition2 - generic_D79FB2B7.wem</Path>
+						</File>
+						<File Id="641394782" Language="SFX">
+							<ShortName>34BT - MA HI.wav</ShortName>
+							<Path>SFX\34BT - MA HI_D79FB2B7.wem</Path>
+						</File>
+						<File Id="726236822" Language="SFX">
+							<ShortName>34BT - MA MI.wav</ShortName>
+							<Path>SFX\34BT - MA MI_D79FB2B7.wem</Path>
+						</File>
+						<File Id="956370877" Language="SFX">
+							<ShortName>34BT - MA LI.wav</ShortName>
+							<Path>SFX\34BT - MA LI_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1060703957" Language="SFX">
+							<ShortName>34BT - MA outro.wav</ShortName>
+							<Path>SFX\34BT - MA outro_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{CD7601D8-5E77-436F-B1AD-2DF15010AE08}">
+							<Media>
+								<File Id="641394782"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{95EEB39C-C488-4435-8D42-E32FF839CD94}">
+							<Media>
+								<File Id="233403212"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{77051BAA-04E6-4303-B93B-5CCF14EBEE53}">
+							<Media>
+								<File Id="956370877"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{7B342206-5BC4-478B-A196-B4ACC148705B}">
+							<Media>
+								<File Id="726236822"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{0FF7861F-DEA8-4E68-B998-346B94882115}">
+							<Media>
+								<File Id="1060703957"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</IncludedEvents>
+			<StateGroups>
+				<StateGroup Id="1211711963" Name="moods" ObjectPath="\States\Default Work Unit\moods">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\moods\None"/>
+						<State Id="4177468155" Name="intro_state" ObjectPath="\States\Default Work Unit\moods\intro_state"/>
+						<State Id="1732293498" Name="LI_state" ObjectPath="\States\Default Work Unit\moods\LI_state"/>
+						<State Id="319636553" Name="MI_state" ObjectPath="\States\Default Work Unit\moods\MI_state"/>
+						<State Id="806468182" Name="HI_state" ObjectPath="\States\Default Work Unit\moods\HI_state"/>
+						<State Id="1299880184" Name="outro_state" ObjectPath="\States\Default Work Unit\moods\outro_state"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
